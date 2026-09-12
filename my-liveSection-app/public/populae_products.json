@@ -1,0 +1,56 @@
+[
+  {
+    "productsImg": "product-1.jpg",
+    "title": "Fresh Red Apple",
+    "price": 180,
+    "rating": 4.8
+  },
+  {
+    "productsImg": "product-2.jpg",
+    "title": "Fresh Orange",
+    "price": 220,
+    "rating": 4.6
+  },
+  {
+    "productsImg": "product-3.jpg",
+    "title": "Green Grapes",
+    "price": 250,
+    "rating": 4.7
+  },
+  {
+    "productsImg": "product-4.jpg",
+    "title": "Fresh Banana",
+    "price": 120,
+    "rating": 4.5
+  },
+  {
+    "productsImg": "product-5.jpg",
+    "title": "Fresh Mango",
+    "price": 300,
+    "rating": 4.9
+  },
+  {
+    "productsImg": "product-6.jpg",
+    "title": "Fresh Pineapple",
+    "price": 160,
+    "rating": 4.4
+  },
+  {
+    "productsImg": "product-7.jpg",
+    "title": "Fresh Strawberry",
+    "price": 450,
+    "rating": 4.8
+  },
+  {
+    "productsImg": "product-8.jpg",
+    "title": "Fresh Watermelon",
+    "price": 200,
+    "rating": 4.6
+  },
+  {
+    "productsImg": "product-9.jpg",
+    "title": "Fresh Dragon Fruit",
+    "price": 380,
+    "rating": 4.7
+  }
+]
